@@ -1,182 +1,178 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       RANJIT DAS · PROFILE README                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:8B0000&height=220&section=header&text=Ranjit%20Das&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Founder%20%40%20KIIT-CONNECT%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" alt="Ranjit Das banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12000A,35:5C001F,70:C0184A,100:FF4D78&height=240&section=header&text=RANJIT%20DAS&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FOUNDER%20%2F%2F%20FULL-STACK%20DEVELOPER%20%2F%2F%20PRODUCT%20BUILDER&descAlignY=63&descSize=15&animation=fadeIn" alt="Ranjit Das portfolio header" width="100%" />
+
+  <p>
+    <a href="#about"><b>ABOUT</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#selected-work"><b>WORK</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#toolkit"><b>TOOLKIT</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#connect"><b>CONNECT</b></a>
+  </p>
 
   <br />
 
-  <a href="https://github.com/Technicalranjitofficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=E50914&center=true&vCenter=true&multiline=true&width=760&height=78&lines=Turning+ideas+into+useful+digital+experiences;Building+products%2C+communities%2C+and+clean+interfaces" alt="Typing introduction" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=22&duration=2600&pause=850&color=FF4D78&center=true&vCenter=true&multiline=true&width=780&height=78&lines=Building+digital+experiences+with+intention.;Ideas+in.+Useful+products+out." alt="Building digital experiences with intention" />
 
   <br />
 
-  <a href="https://kiitconnect.com"><img src="https://img.shields.io/badge/Founder-KIIT--CONNECT-E50914?style=for-the-badge&logo=rocket&logoColor=white" alt="Founder of KIIT-CONNECT" /></a>
-  <a href="https://github.com/Technicalranjitofficial?tab=followers"><img src="https://img.shields.io/github/followers/Technicalranjitofficial?style=for-the-badge&color=8B0000&labelColor=0D1117&logo=github&label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-60%2B-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" /></a>
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/Technicalranjitofficial"><img src="https://komarev.com/ghpvc/?username=Technicalranjitofficial&label=PROFILE%20VIEWS&color=E50914&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/Technicalranjitofficial?tab=stars"><img src="https://img.shields.io/github/stars/Technicalranjitofficial?style=for-the-badge&color=8B0000&labelColor=0D1117&logo=github&label=Stars" alt="GitHub stars" /></a>
+  <a href="https://kiitconnect.com"><img src="https://img.shields.io/badge/FOUNDER-KIIT--CONNECT-FF4D78?style=for-the-badge&labelColor=12000A" alt="Founder of KIIT-CONNECT" /></a>
+  <a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="https://img.shields.io/badge/60%2B-PUBLIC%20REPOSITORIES-C0184A?style=for-the-badge&labelColor=12000A" alt="More than 60 public repositories" /></a>
+  <a href="mailto:technicalranjit@gmail.com"><img src="https://img.shields.io/badge/AVAILABLE%20FOR-IDEAS%20%26%20COLLABS-FF4D78?style=for-the-badge&labelColor=12000A" alt="Available for ideas and collaborations" /></a>
 
 </div>
 
 <br />
 
-## 🔴 About me
-
-```text
-I am Ranjit Das — a product-focused full-stack developer and founder.
-
-I enjoy taking an idea from a blank page to a useful, polished product.
-My work sits at the intersection of software, design, communities, and curiosity.
-```
-
-- 🚀 Founder of **[KIIT-CONNECT](https://kiitconnect.com)** — building tools and experiences for a stronger student community.
-- 💻 I build with **React, Next.js, JavaScript, TypeScript, Node.js, and MongoDB**.
-- 🎨 I care about intuitive interfaces, thoughtful details, and products people enjoy using.
-- 🌱 Currently learning and building with **Spring Boot**.
-- 💬 Ask me about **React.js, Next.js, JavaScript, full-stack development, or product ideas**.
-- 📫 Reach me at **[technicalranjit@gmail.com](mailto:technicalranjit@gmail.com)**.
-- ⚡ Fun fact: **Bats are the only mammals capable of sustained flight.**
-
-<br />
-
-## ✨ What I do
-
-<table>
+<table align="center" width="92%">
   <tr>
-    <td width="33%" align="center">
-      <h3>🧠 Product Thinking</h3>
-      <p>Turning rough ideas into clear, useful, and delightful digital products.</p>
+    <td width="62%" valign="middle">
+
+      <h1 id="about">Hello, I’m Ranjit<span style="color:#FF4D78">.</span></h1>
+
+      <p><b>Founder · Full-Stack Developer · Product Builder</b></p>
+
+      <p>I turn blank pages into useful products, expressive interfaces, and communities that help people connect. I enjoy the full journey — shaping the idea, designing the experience, writing the code, and shipping the thing.</p>
+
+      <p>
+        <a href="https://kiitconnect.com"><img src="https://img.shields.io/badge/Visit%20KIIT--CONNECT-FF4D78?style=for-the-badge&logo=rocket&logoColor=white" alt="Visit KIIT-CONNECT" /></a>
+        <a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-5C001F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+      </p>
+
     </td>
-    <td width="33%" align="center">
-      <h3>⚙️ Full-Stack Builds</h3>
-      <p>Creating reliable applications from responsive frontends to practical backends.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌐 Community</h3>
-      <p>Building tools that help people connect, learn, collaborate, and grow.</p>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/87274287?v=4" width="210" alt="Ranjit Das profile photo" />
+      <br /><br />
+      <img src="https://komarev.com/ghpvc/?username=Technicalranjitofficial&label=PROFILE%20VIEWS&color=FF4D78&style=for-the-badge" alt="Profile views" />
     </td>
   </tr>
 </table>
 
 <br />
 
-## 🛠️ Tech stack
-
-### Frontend
-
-<p>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
-  <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
-</p>
-
-### Backend, databases & tools
-
-<p>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-</p>
+<table align="center" width="92%">
+  <tr>
+    <td align="center" width="25%"><b>01</b><br /><sub>PRODUCT THINKING</sub></td>
+    <td align="center" width="25%"><b>02</b><br /><sub>FULL-STACK BUILDS</sub></td>
+    <td align="center" width="25%"><b>03</b><br /><sub>COMMUNITY</sub></td>
+    <td align="center" width="25%"><b>04</b><br /><sub>CONTINUOUS LEARNING</sub></td>
+  </tr>
+</table>
 
 <br />
 
-## 🚀 Featured projects
+## `/about`
 
-<table>
+<table width="92%">
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Technicalranjitofficial/github-profile-readme-generator">GitHub Profile README Generator</a></h3>
-      <p>A tool for creating a professional GitHub profile in minutes with reusable sections and developer-focused customization.</p>
-      <p><code>JavaScript</code> · <code>Open Source</code> · <code>Developer Tool</code></p>
+    <td width="50%" valign="top">
+
+      ### Currently
+
+      - 🚀 Founder of **[KIIT-CONNECT](https://kiitconnect.com)**
+      - 🌱 Learning and building with **Spring Boot**
+      - 💻 Creating with **React, Next.js, Node.js, and MongoDB**
+      - 🎨 Focused on clean interfaces and meaningful details
+
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Technicalranjitofficial/equalizer_flutter_custom">Equalizer Flutter Custom</a></h3>
-      <p>A beautiful custom music-player equalizer experience designed for expressive, modern mobile interfaces.</p>
-      <p><code>Dart</code> · <code>Flutter</code> · <code>UI/UX</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Technicalranjitofficial/sorting_visualizer">Sorting Visualizer</a></h3>
-      <p>An interactive way to understand sorting algorithms through animation, motion, and visual feedback.</p>
-      <p><code>JavaScript</code> · <code>Algorithms</code> · <code>Visualization</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Technicalranjitofficial/Random-chat">Random Chat</a></h3>
-      <p>A social chat project exploring real-time communication and simple, engaging user experiences.</p>
-      <p><code>JavaScript</code> · <code>Web App</code> · <code>Communication</code></p>
+    <td width="50%" valign="top">
+
+      ### Ask me about
+
+      - React.js and Next.js
+      - JavaScript and full-stack development
+      - Product ideas and UI/UX
+      - Building useful tools for real people
+
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Technicalranjitofficial?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-E50914?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
-</p>
+<br />
+
+## `/selected-work` <a id="selected-work"></a>
+
+<table width="92%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://kiitconnect.com">01 / KIIT-CONNECT</a></h3>
+      <p>A community-focused product built to help students connect, discover opportunities, and grow together.</p>
+      <p><code>PRODUCT</code> <code>COMMUNITY</code> <code>WEB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Technicalranjitofficial/github-profile-readme-generator">02 / PROFILE README GENERATOR</a></h3>
+      <p>A developer tool for creating a polished GitHub profile quickly with reusable, customizable sections.</p>
+      <p><code>JAVASCRIPT</code> <code>OPEN SOURCE</code> <code>TOOLING</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Technicalranjitofficial/equalizer_flutter_custom">03 / EQUALIZER FLUTTER CUSTOM</a></h3>
+      <p>A custom music-player equalizer experience with an expressive visual design and smooth interaction.</p>
+      <p><code>DART</code> <code>FLUTTER</code> <code>UI/UX</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Technicalranjitofficial/sorting_visualizer">04 / SORTING VISUALIZER</a></h3>
+      <p>An interactive visual way to understand sorting algorithms through animation and feedback.</p>
+      <p><code>JAVASCRIPT</code> <code>ALGORITHMS</code> <code>VISUALIZATION</code></p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-## 📊 GitHub at a glance
+## `/toolkit` <a id="toolkit"></a>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Technicalranjitofficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=E50914&icon_color=FF4D67&text_color=FFFFFF&bg_color=0D1117" alt="Ranjit's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technicalranjitofficial&layout=compact&langs_count=8&hide_border=true&title_color=E50914&text_color=FFFFFF&bg_color=0D1117" alt="Ranjit's top languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,bootstrap,nodejs,express,spring,python,mongodb,mysql,git,github,linux&perline=8" alt="Ranjit's technology toolkit" />
+</div>
+
+<br />
+
+<table align="center" width="92%">
+  <tr>
+    <td width="33%" align="center"><b>FRONTEND</b><br /><sub>React · Next.js · JavaScript<br />TypeScript · HTML · CSS</sub></td>
+    <td width="33%" align="center"><b>BACKEND</b><br /><sub>Node.js · Express · Spring Boot<br />Python · REST APIs</sub></td>
+    <td width="33%" align="center"><b>DATA & TOOLS</b><br /><sub>MongoDB · MySQL · Git<br />GitHub · Linux · Flutter</sub></td>
+  </tr>
+</table>
+
+<br />
+
+## `/github-activity`
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Technicalranjitofficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF4D78&icon_color=FF4D78&text_color=FFFFFF&bg_color=12000A" alt="Ranjit's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technicalranjitofficial&layout=compact&langs_count=8&hide_border=true&title_color=FF4D78&text_color=FFFFFF&bg_color=12000A" alt="Ranjit's top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Technicalranjitofficial&theme=dark&hide_border=true&background=0D1117&ring=E50914&fire=FF4D67&currStreakLabel=E50914&sideLabels=FFFFFF&dates=AAAAAA" alt="Ranjit's GitHub streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Technicalranjitofficial&theme=dark&hide_border=true&background=12000A&ring=FF4D78&fire=FF4D78&currStreakLabel=FF4D78&sideLabels=FFFFFF&dates=AAAAAA" alt="Ranjit's GitHub streak" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Technicalranjitofficial&bg_color=0D1117&color=FFFFFF&line=E50914&point=FF4D67&area_color=8B0000&area=true&hide_border=true" alt="Ranjit's contribution graph" width="95%" />
-</div>
-
-<br />
-
-## 🤝 Let’s connect
+## `/connect` <a id="connect"></a>
 
 <div align="center">
-
-  <a href="https://kiitconnect.com"><img src="https://img.shields.io/badge/Website-KIIT--CONNECT-E50914?style=for-the-badge&logo=google-chrome&logoColor=white" alt="KIIT-CONNECT website" /></a>
-  <a href="https://www.linkedin.com/in/technicalranjit"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/technicalranjit"><img src="https://img.shields.io/badge/X-Follow-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/official_ranjitdas"><img src="https://img.shields.io/badge/Instagram-Follow-E50914?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:technicalranjit@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
+  <a href="https://kiitconnect.com"><img src="https://img.shields.io/badge/WEBSITE-FF4D78?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/technicalranjit"><img src="https://img.shields.io/badge/LINKEDIN-C0184A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/technicalranjit"><img src="https://img.shields.io/badge/X-12000A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/official_ranjitdas"><img src="https://img.shields.io/badge/INSTAGRAM-FF4D78?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:technicalranjit@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C0184A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br />
 
 <div align="center">
 
-  ### 🔥 Build boldly. Learn continuously. Ship thoughtfully.
+  <p><b>Build boldly. Learn continuously. Ship thoughtfully.</b></p>
 
-  <sub>Thanks for visiting — feel free to explore my work, open an issue, or start a conversation.</sub>
+  <sub>Thanks for stopping by. Explore the work, start a conversation, or build something meaningful together.</sub>
 
   <br /><br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:E50914&height=110&section=footer" alt="Red footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D78,50:C0184A,100:12000A&height=120&section=footer" alt="Red and pink footer" width="100%" />
 
 </div>
